@@ -603,6 +603,9 @@ body {
   .areaServ #inner .serCont>.mapSer>.mapSection .navMap {position: absolute;left:0;bottom: 0px;background: #03c85a;padding-top: 16px;padding-bottom: 16px;width: 50%;text-align: center;}
   .areaServ #inner .serCont>.mapSer>.mapSection .kakaoMap {position: absolute;right: 0;bottom: 0px;background: #ffeb33;padding-top: 16px; padding-bottom: 16px;width: 50%;text-align: center;}
   .areaServ #inner .serCont>.timeSer {float: right;}
+    
+   /* daum-map */
+ .root_daum_roughmap {width:100% !important;}
 
    /* footer */
    footer {background: #23507b;width: 100%;height: 150px;position:relative;}
